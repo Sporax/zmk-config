@@ -190,8 +190,8 @@
 // |                    |  __  |  __  | Reset|  __  |  __  |  __  |                     |
 // `------------------------------------------------------------------------------------'
                         bindings = <
-   &none    &tg XL    &none     &none   &none   &none       &none   &none   &none   &none   &kp K_SLEEP  &none
-   &tg XL   &to MAC   &to DEF   &none   &none   &to GAMING  &none   &none   &none   &none   &none        &none
+   &none    &tog XL   &none     &none   &none   &none       &none   &none   &none   &none   &kp K_SLEEP  &none
+   &tog XL  &to MAC   &to DEF   &none   &none   &to GAMING  &none   &none   &none   &none   &none        &none
    &none    &none     &none     &none   &none   &none       &none   &none   &none   &none   &none        &none
                                 &none   &none   &sys_reset  &none   &none   &none
                         >;
